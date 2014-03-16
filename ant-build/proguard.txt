@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.elegantsolutions.memo.Memo { <init>(...); }
+
